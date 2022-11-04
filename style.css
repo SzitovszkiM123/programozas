@@ -1,0 +1,22 @@
+a {
+    color: rgba(255, 57, 57, 0.856);
+    transition: 0.3s;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+    }
+    
+    a:hover {
+    font-size: xx-large;
+    color: rgba(15, 187, 255, 0.815);
+    }
+    
+    .active {
+        background-color:#000000;
+        font-size: x-large;
+    }
+    
+    body {
+        background-color:#95959e;
+    
+    }
